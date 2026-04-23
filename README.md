@@ -1,1 +1,1 @@
-[![MasterHead](https://imgur.com/5ly6O4y)](your GitHub link)
+<img src="https://imgur.com/a/H5k3Uof" width="100%" />
