@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=if%20(user%20==%20cool)%7B-nl-%20%20print(%22Welcome!%22)%3B%7D&fontColor=f5ffd9&fontSize=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=gradient&text=while%20True:-nl-%20%20%20learn_data()&textBg=false&fontSize=45&fontAlignY=30&animation=twinkling&section=header&reversal=false" />
 <div align="center" style="width:100%; padding:12px 0; background: repeating-linear-gradient(
   45deg,
   #000,
