@@ -7,6 +7,15 @@
   #facc15 40px
 ); border-radius: 8px;">
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+
+
+
+
+
+
+
   <span style="background-color:#000; color:#facc15; padding:6px 16px; font-weight:bold; font-size:18px; border:2px solid #facc15; border-radius:6px;">
     ⚠️ PROFILE UNDER CONSTRUCTION ⚠️
   </span>
